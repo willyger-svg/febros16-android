@@ -1,0 +1,6 @@
+{
+  "name": "Bulldog Shield",
+  "description": "Privacy-first, offline adult-content blocker and commitment protection engine for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
